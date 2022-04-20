@@ -1,0 +1,19 @@
+{
+    "blogs": [
+        {
+            "title": "First blog",
+            "author": "Peter Drucker",
+            "id": 1
+        },
+        {
+            "title": "Second Blog",
+            "author": "John Doe",
+            "id": 2
+        },
+        {
+            "title": "Third Blog",
+            "author": "Jane Doe",
+            "id": 3
+        }
+    ]
+}
